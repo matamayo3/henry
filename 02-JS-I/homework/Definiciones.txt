@@ -1,0 +1,5 @@
+* Variables: Una variable es una forma de almacenar el valor de algo para usar más tarde.
+* Strings: Las “strings” son bloques de texto, siempre se definirán entre comillas
+* Funciones (argumentos, `return`): una función es una sección de un programa que calcula un valor de manera independiente al resto del programa
+* Declaraciones `if` : se utiliza para evaluar una condicion
+* Valores booleanos (`true`, `false`) que sólo puede tener dos valores: (verdadero) ó (falso)
